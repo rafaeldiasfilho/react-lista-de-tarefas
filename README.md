@@ -1,6 +1,6 @@
 # Lista de tarefas em React
 
-App de lista de tarefas para adicionar, concluir e apagar tarefas, além de abrir uma página com os detalhes de cada uma.
+App de lista de tarefas para adicionar, concluir e apagar tarefas, além de abrir uma página com os detalhes de cada uma. As tarefas ficam salvas no `localStorage`, então continuam lá quando a página é recarregada.
 
 ## Tecnologias
 
